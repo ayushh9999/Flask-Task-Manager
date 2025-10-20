@@ -1,4 +1,4 @@
-# 📝 Flask Todo App
+# 📝 Flask Task Manager
 
 <div align="center">
 
@@ -8,7 +8,7 @@
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-3.0-38B2AC?style=for-the-badge&logo=tailwind-css)
 ![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
 
-A beautiful and functional todo application built with Flask, SQLAlchemy, and Tailwind CSS.
+A beautiful and functional task management application built with Flask, SQLAlchemy, and Tailwind CSS.
 
 [Features](#-features) • [Demo](#-demo) • [Installation](#-installation) • [Usage](#-usage) • [Tech Stack](#-tech-stack) • [Project Structure](#-project-structure)
 
@@ -53,8 +53,8 @@ A beautiful and functional todo application built with Flask, SQLAlchemy, and Ta
 
 ### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/yourusername/flask-todo-app.git
-cd flask-todo-app
+git clone https://github.com/ayushh9999/Flask-Task-Manager.git
+cd Flask-Task-Manager
 ```
 
 ### Step 2: Create Virtual Environment (Recommended)
@@ -81,7 +81,7 @@ python app.py
 ### Step 5: Open in Browser
 Navigate to: **http://127.0.0.1:5000**
 
-🎉 **That's it!** Your todo app is now running locally!
+🎉 **That's it!** Your task manager is now running locally!
 
 ---
 
@@ -130,7 +130,7 @@ Navigate to: **http://127.0.0.1:5000**
 ## 📁 Project Structure
 
 ```
-flask-todo-app/
+Flask-Task-Manager/
 │
 ├── 📄 app.py                  # Main Flask application with routes
 ├── 📄 requirements.txt        # Python dependencies
@@ -237,7 +237,7 @@ This project is licensed under the MIT License - feel free to use it for your ow
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/yourusername/flask-todo-app/issues).
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/ayushh9999/Flask-Task-Manager/issues).
 
 ### How to Contribute
 1. Fork the project
@@ -252,8 +252,8 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 
 **Ayush Mondal**
 
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
+- GitHub: [@ayushh9999](https://github.com/ayushh9999)
+- LinkedIn: [Connect with me](https://www.linkedin.com/in/ayush-mondal)
 
 ---
 
@@ -277,6 +277,6 @@ Give a ⭐️ if this project helped you!
 
 **Made with ❤️ and Python**
 
-**[⬆ Back to Top](#-flask-todo-app)**
+**[⬆ Back to Top](#-flask-task-manager)**
 
 </div>
